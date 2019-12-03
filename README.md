@@ -1,2 +1,2 @@
 # chaser-game
-my final project for cmsi 185
+*INSERT COOL STORY HERE AND DIVULGE INFO ABOUT POWER-UPS*

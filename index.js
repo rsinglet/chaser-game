@@ -214,7 +214,7 @@ function draw() {
     fill(`rgba(248, 240, 246, 0.5)`);
     textSize(width / 7);
     text("GAME OVER", width / 2, height / 2);
-    //song.play();
+    song.play();
     noLoop();
   }
   if (frameCount % 400 === 0) {

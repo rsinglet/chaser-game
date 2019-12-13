@@ -1,7 +1,9 @@
 h1 {
     text-align: center;
-   }
-   progress {
-     width: 980px;
-   }
-   
+    font-size: 50px;
+    color: seagreen;
+  }
+  
+  progress {
+    width: 980px;
+  }
